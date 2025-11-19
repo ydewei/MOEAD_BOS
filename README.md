@@ -1,12 +1,13 @@
 # Decomposition-based-Multi-objective-Evolutionary-Algorithm-for-Bi-optimal-Selection
 The code for the MOEAD-BOS algorithm is designed to run within the PlatEMO framework. If you have any questions, please contact 220811017@stu.xpu.edu.cn.
 If you find this paper helpful, please cite it as follows:
+
 @article{FAN2026102228,
 title = {Decomposition-based multi-objective evolutionary algorithm for bi-optimal selection},
 journal = {Swarm and Evolutionary Computation},
 volume = {100},
 pages = {102228},
-year = {2026},\\
+year = {2026},
 issn = {2210-6502},
 doi = {https://doi.org/10.1016/j.swevo.2025.102228},
 url = {https://www.sciencedirect.com/science/article/pii/S2210650225003852},
